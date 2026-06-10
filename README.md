@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Md. Mezbahul Islam, and I’m from Bangladesh. I am a Web Developer and Graphic Designer. Currently, I am studying in the Department of Computer Science and Engineering at Daffodil International University. I am also learning Full Stack Web Development.<br>
+Hi, I’m Md. Mezbahul Islam, and I’m from Bangladesh. I am a Web Developer and Graphic Designer. Currently, I am studying in the Department of Computer Science and Engineering at Daffodil International University. I can build Full Stack Web Application.<br>
 
 
 ## 🌐 Socials:
